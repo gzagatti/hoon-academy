@@ -1,0 +1,15 @@
+* Intro to Hoon
+
+** Getting started
+
+   #+begin_src hoon
+   %-  add  [2 2]
+   
+   #+end_src
+
+** TODO Read
+
+   - [[https://docs.urbit.org/language/hoon][Hoon overview]] :: high-level design decisions behind the language
+   - [[https://urbit.org/blog/why-hoon/][Why Hoon?]] :: developer ~rovnys-ricfer's explanation
+
+

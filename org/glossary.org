@@ -1,0 +1,5 @@
+* Glossary
+
+  - Urbit ID/Azimuth :: general-purpose public-key infrastructure (PKI) on the Ethereum blockchain, used as a platform for Urbit identities.
+
+  - Urbit OS/Arvos :: operating system which provides the software for the personal server platform that constitutes the day-to-day usage of Urbit.

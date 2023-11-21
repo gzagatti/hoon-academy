@@ -1,0 +1,9 @@
+* Urbit setup
+
+  To hit the ground running, I mostly followed the instructions at [[https://docs.urbit.org/courses/environment]].
+
+  1. Download Urbit :: I followed the instructions in [[https://docs.urbit.org/manual/getting-started/self-hosted/cli]]. I inspected the Urbit download URL before downloading and saving the file. The download URL is a binary to the Urbit executable which I placed at ~$HOME/.local/bin/urbit~.
+
+  2. Faster fake ship booting :: I created a backup of a clean fakezod to allow for multiple iteration when something breaks.
+
+
